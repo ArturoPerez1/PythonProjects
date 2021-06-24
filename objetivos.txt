@@ -1,0 +1,5 @@
+objetivos para la clase con wilmer  o de hoy:
+
+crear un codigo capaz eliminar los numero impares y primos string, introducido por el usuario, hazlo primero trabajandolo como un string y luego como un entero.
+
+tienes un dia y medio para hacerlo.

@@ -61,7 +61,7 @@ def run():
             Opcion: """
         opcion = int(input(menu))
         time.sleep(0.2)
-        os.system('cls')
+        os.system('clear')
 
         if opcion == 1:
             llenar_lista(lista)
@@ -84,7 +84,7 @@ def run():
         if opcion > 5 or opcion < 1:
             print("opcion invalida") 
             time.sleep(0.8)
-            os.system('cls')
+            os.system('clear')
 
 
 

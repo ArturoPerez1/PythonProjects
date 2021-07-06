@@ -2,7 +2,7 @@ import random
 import os
 import time
 
-
+#function for print list with underscore
 def imprimirBarras(longitud_string):
     new_lista = []
     for i in range(longitud_string):
@@ -73,7 +73,7 @@ def run():
         
         if no_mach == False and iterador >= 0:
             iterador -= 1
-            
+
         if no_mach == True:
             no_mach = False
             iterador += 1

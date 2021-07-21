@@ -2,7 +2,7 @@ import random
 import os
 import time
 
-#function for print list with underscore
+#function for print list with no tengo
 def imprimirBarras(longitud_string):
     new_lista = []
     for i in range(longitud_string):
